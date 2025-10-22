@@ -1,0 +1,5 @@
+{
+  "name": " Mindwave Sonic AI",
+  "description": "An application that generates personalized brainwave entrainment sounds (Alpha, Beta, Gamma, Delta, Theta) and vibrations based on your mood, as analyzed by the Gemini AI. Describe how you feel or what you want to achieve, and the app will create a custom sonic environment to help you relax, focus, or sleep.",
+  "requestFramePermissions": []
+}
